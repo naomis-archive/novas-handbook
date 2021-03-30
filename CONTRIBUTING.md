@@ -10,6 +10,18 @@ Everything for the project is contained within the `docs` folder. The `index.md`
 
 If you add a new file there, be sure to include it in the nav bar so the page can be accessed!
 
+## What if I don't have the tools to do that?
+
+Changes can be made to the markdown files right in the GitHub interface! You can edit or even add markdown files to the project through the interface, and it will walk you through the process!
+
+Alternatively, you can download some tools:
+
+- Node.js
+- A text editor (even notepad works, if needed!)
+- git
+
+This might seem like a lot to set up, but if you want to go this direction we are more than happy to help! Otherwise, changes made through GitHub directly are also welcome!
+
 ## Claiming an Issue
 
 All of our issues are open to contributors! If you see an open issue you would like to work on, please comment on the issue so we may assign it to you.
