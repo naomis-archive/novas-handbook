@@ -1,18 +1,10 @@
-# Project Name
+# Community Handbook
 
-Project Description
-
-![](https://img.shields.io/codeclimate/maintainability/nhcarrigan/new-repo-template)
-![](https://img.shields.io/codeclimate/issues/nhcarrigan/new-repo-template)
-![](https://img.shields.io/codeclimate/tech-debt/nhcarrigan/new-repo-template)
-![](https://img.shields.io/lgtm/alerts/github/nhcarrigan/new-repo-template)
-![](https://img.shields.io/lgtm/grade/javascript/github/nhcarrigan/new-repo-template)
+This project serves as the handbook for how we operate our community.
 
 ## Live Version
 
-This page is not yet deployed.
-
-<!--This page is currently deployed. [View the live website.]()-->
+This page is currently deployed. [View the live website.](https://handbook.nhcarrigan.com)
 
 ## Feedback and Bugs
 
