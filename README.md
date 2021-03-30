@@ -1,6 +1,6 @@
 # Community Handbook
 
-This project serves as the handbook for how we operate our community.
+This project serves as the handbook for how we operate our community. Information will be added by our community members as needed.
 
 ## Live Version
 
