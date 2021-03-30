@@ -8,7 +8,13 @@ First, fork this repository to your own account. Then use `git clone <url>` to b
 
 Everything for the project is contained within the `docs` folder. The `index.md` file is the homepage, the `_navbar.md` file is the sidebar, and everything else goes in the `pages` folder.
 
-If you add a new file there, be sure to include it in the nav bar so the page can be accessed!
+If you add a new file there, be sure to include it in the nav bar so the page can be accessed! When you add a new link to the nav bar, you should use this syntax:
+
+```md
+- [Text to display](link)
+```
+
+The text between the `[]` will be what displays on the link, and the text between the `()` will be the link itself. This is a relative link _from_ the `docs` folder, so it should be something like `/pages/your-file-name.md`.
 
 ## What if I don't have the tools to do that?
 
