@@ -6,6 +6,28 @@ Please ensure all pull requests and contributions comply with the [Developer Cer
 
 First, fork this repository to your own account. Then use `git clone <url>` to bring your forked repository down to your local machine (remember to get the URL for _your_ repository, not the original). Optionally, use `git remote add upstream <url>` to add the original repository as the upstream (this is helpful for keeping your fork up-to-date).
 
+Everything for the project is contained within the `docs` folder. The `index.md` file is the homepage, the `_navbar.md` file is the sidebar, and everything else goes in the `pages` folder.
+
+If you add a new file there, be sure to include it in the nav bar so the page can be accessed! When you add a new link to the nav bar, you should use this syntax:
+
+```md
+- [Text to display](link)
+```
+
+The text between the `[]` will be what displays on the link, and the text between the `()` will be the link itself. This is a relative link _from_ the `docs` folder, so it should be something like `/pages/your-file-name.md`.
+
+## What if I don't have the tools to do that?
+
+Changes can be made to the markdown files right in the GitHub interface! You can edit or even add markdown files to the project through the interface, and it will walk you through the process!
+
+Alternatively, you can download some tools:
+
+- Node.js
+- A text editor (even notepad works, if needed!)
+- git
+
+This might seem like a lot to set up, but if you want to go this direction we are more than happy to help! Otherwise, changes made through GitHub directly are also welcome!
+
 ## Claiming an Issue
 
 All of our issues are open to contributors! If you see an open issue you would like to work on, please comment on the issue so we may assign it to you.
