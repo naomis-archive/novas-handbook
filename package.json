@@ -1,0 +1,24 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "A handbook for how we run our community",
+  "scripts": {
+    "develop": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrigan-community/handbook.git"
+  },
+  "keywords": [
+    "docsify"
+  ],
+  "author": "Carrigan's Community",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/carrigan-community/handbook/issues"
+  },
+  "homepage": "https://github.com/carrigan-community/handbook#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
