@@ -6,6 +6,7 @@
 ---
 
 - [Moderator Handbook](/pages/moderators.md)
+- [Moderator of the Month](/pages/mod-of-month.md)
 
 ---
 
