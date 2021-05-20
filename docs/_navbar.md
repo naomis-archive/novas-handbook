@@ -1,2 +1,3 @@
+- [Rules](/pages/rules.md)
 - [Code of Conduct](/pages/code-of-conduct.md)
 - [Contributing to Projects](/pages/contributing.md)
