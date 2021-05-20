@@ -82,7 +82,7 @@ Remember that we are a team. We do not want to disagree with each other publicly
 
 We do not require specific levels of activity from our moderators. We understand that you are volunteering your time to help our community, and it is highly appreciated.
 
-That being said, if you anticipate being active for more than a week, we do ask that you let us know in the Discord staff-chat so we are aware that you will not be around to address issues.
+That being said, if you anticipate being inactive for more than a week, we do ask that you let us know in the Discord staff-chat so we are aware that you will not be around to address issues.
 
 ## Becoming a Moderator
 
