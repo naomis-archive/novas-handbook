@@ -5,8 +5,14 @@
 
 ---
 
-- [Moderator Handbook](/pages/moderators.md)
-- [Moderator of the Month](/pages/mod-of-month.md)
+- [Staff Start Here](/pages/staff.md)
+- [Moderator Handbook](/pages/moderator.md)
+- [Developer Guide](/pages/developer.md)
+- [Support Staff](/pages/support.md)
+- [Editor Style Guide](/pages/editor.md)
+- [Author Guide](/pages/author.md)
+- [Artists Corner](/pages/artist.md)
+- [**Join our Team**](/pages/applications.md)
 
 ---
 
