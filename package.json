@@ -6,8 +6,8 @@
     "develop": "docsify serve docs"
   },
   "engines": {
-    "node": "^16.2.0",
-    "npm": "^7.13.0"
+    "node": "^16.9.1",
+    "npm": "^7.24.0"
   },
   "repository": {
     "type": "git",
