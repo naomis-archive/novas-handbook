@@ -21,7 +21,7 @@ Moderating Discord primarily involves ensuring our members are interacting with 
 For actions that are mostly harmless, such as mild spam, or an insult that isn't discriminatory (i.e. "You're a jerk"), you can issue a warning. Use Becca to give a warning to the member so the action is appropriately logged.
 
 ```txt
-becca!warn @user this is the reason
+/mod warn @user this is the reason
 ```
 
 ### Kicking a Member
@@ -29,7 +29,7 @@ becca!warn @user this is the reason
 If a member is arguing with you directly, spamming a channel, or breaking our rules in a non-excessive manner, often times a kick is sufficient to show them that you are serious about enforcing our standards. Use Becca to kick the member so the action is logged.
 
 ```txt
-becca!kick @user this is the reason
+/mod kick @user this is the reason
 ```
 
 ### Banning a Member
@@ -37,15 +37,15 @@ becca!kick @user this is the reason
 Careful consideration must happen before banning a member. Discord bans are IP specific and the member will not be able to rejoin until the ban is lifted. When you need to ban someone, use Becca to do so.
 
 ```txt
-becca!ban @user this is the reason
+/mod ban @user 7 this is the reason
 ```
 
 Becca will ask you to confirm that you intend to do this.
 
 ## Working With Fellow Mods
 
-On GitHub our community organisation has a `moderators` team. Within this team you can create private discussions that only your fellow moderators will see. On Discord, we have a private staff-chat channel for the same purpose.
+On GitHub, our community organisation has a `moderators` team. Within this team, you can create private discussions that only your fellow moderators will see. On Discord, we have a private staff-chat channel for the same purpose.
 
 These are places where you can bring up concerns, ask fellow moderators how they would approach a situation, or request assistance in dealing with an issue. We will gladly help you resolve the problems at hand.
 
-Remember that we are a team. We do not want to disagree with each other publicly. If you have concerns about a moderation action, or about a fellow moderator's actions, discuss it in one of these private areas. If you cannot reach a resolution, reach out to nhcarrigan or DennaGrey for guidance.
+Remember that we are a team. We do not want to disagree with each other publicly. If you have concerns about a moderation action, or about a fellow moderator's actions, discuss them in one of these private areas. If you cannot reach a resolution, reach out to nhcarrigan or DennaGrey for guidance.
