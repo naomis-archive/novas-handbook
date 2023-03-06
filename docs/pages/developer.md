@@ -22,11 +22,11 @@ Moderating GitHub involves triaging issues and reviewing pull requests, as well 
 
 ### Triaging Issues
 
-By default, when an issue is opened `nhcarrigan` is assigned and the issue gets a `🚦 status: awaiting triage` label automatically. This label is used to indicate issues that have not yet received attention from our maintainers.
+By default, when an issue is opened `naomi-lgbt` is assigned and the issue gets a `🚦 status: awaiting triage` label automatically. This label is used to indicate issues that have not yet received attention from our maintainers.
 
 The first step is to respond to the issue with a comment thanking the contributor for bringing it to our attention. If additional information is needed, ask the necessary questions to help identify the potential resolution for the issue.
 
-Once a resolution has been reached, the issue will need to be re-labeled. Remove `nhcarrigan`'s assignment and the `🚦 status: awaiting triage` label. Then, apply the appropriate labels from the list. Each label has a description to help identify its purpose.
+Once a resolution has been reached, the issue will need to be re-labeled. Remove `naomi-lgbt`'s assignment and the `🚦 status: awaiting triage` label. Then, apply the appropriate labels from the list. Each label has a description to help identify its purpose.
 
 Be sure to include at least one label from the `aspect`, `goal`, `priority`, and `status` categories. Typically, the `status` label should be `🏁 status: ready for dev`.
 
@@ -46,4 +46,4 @@ If you have any questions about this process, ask your fellow moderators.
 
 ### Write Access
 
-If you think you need maintainer access on one of our projects to perform your work, let nhcarrigan know and we can discuss it further.
+If you think you need maintainer access on one of our projects to perform your work, let Naomi know and we can discuss it further.

@@ -1,3 +1,0 @@
-# Artist Guide
-
-Coming soon!

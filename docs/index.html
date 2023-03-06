@@ -2,24 +2,70 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Document</title>
+    <title>Naomi's Novas Handbook</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
+    <meta property="og:title" content="Naomi's Novas Handbook" />
+    <meta property="og:url" content="https://handbook.nhcarrigan.com" />
+    <meta
+      property="og:image"
+      content="https://cdn.nhcarrigan.com/banners/novas.png"
+    />
+    <meta
+      property="og:description"
+      content="This is the community handbook for Naomi's Novas~!"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@nhcarrigan" />
     <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
     />
+    <style>
+      :root {
+        --theme-color: purple;
+        --mono-hue: 255;
+        --theme-hue: 255;
+        --cursor-normal: url("https://naomi.lgbt/assets/img/cursor.cur");
+        --cursor-pointer: url("https://naomi.lgbt/assets/img/pointer.cur");
+      }
+
+      html {
+        cursor: var(--cursor-normal), default;
+      }
+
+      a,
+      button {
+        cursor: var(--cursor-pointer), pointer !important;
+      }
+
+      body::after {
+        background: url(https://cdn.nhcarrigan.com/banners/novas.png);
+        background-size: cover;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 0.1;
+        pointer-events: none;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "nhcommunity Handbook",
-        repo: "nhcommunity/handbook",
+        name: "Naomi's Novas Handbook",
+        repo: "naomis-novas/handbook",
         loadSidebar: "_navbar.md",
         homepage: "index.md",
         subMaxLevel: 3,
@@ -35,12 +81,12 @@
       };
     </script>
     <!-- Docsify v4 -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.1/docsify.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.13.0/docsify.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts@1"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-bash.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-diff.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-yaml.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-json.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-bash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-diff.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-yaml.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-json.min.js"></script>
     <script src="https://unpkg.com/docsify-copy-code@2"></script>
   </body>
 </html>
