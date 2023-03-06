@@ -1,6 +1,6 @@
 # Support Staff
 
-As a member of our support team, you are essential in providing the smoothest user experience to our members. You should be able to answer questions regarding most of our projects, with Becca being the highest priority. If you don't have an answer for someone's question, you have access to #support-chat where you can discuss the question with your fellow staff members and work together to reach a solution.
+As a member of our support team, you are essential in providing the smoothest user experience to our members. You should be able to answer questions regarding most of our projects, with Becca being the highest priority. If you don't have an answer for someone's question, you have access to #staff-lounge where you can discuss the question with your fellow staff members and work together to reach a solution.
 
 ## Premium Support
 

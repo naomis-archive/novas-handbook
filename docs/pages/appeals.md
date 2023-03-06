@@ -2,7 +2,7 @@
 
 Our moderators do not take punitive action (such as kicks, bans, etc.) lightly. However, misunderstandings do happen and everyone makes mistakes.
 
-If you feel that you were restricted from our community unfairly, you can reach out to nhcarrigan or DennaGrey to discuss the decision.
+If you feel that you were restricted from our community unfairly, you can reach out to Naomi to discuss the decision.
 
 ## Preparing for Your Appeal
 
@@ -15,3 +15,5 @@ Before reaching out to us, be prepared with some information.
 - Why do you want to resume interaction with our community? What value do you feel you would add?
 
 If you are not prepared for your appeal, we will be less likely to approve it.
+
+[Appeal A Ban](https://docs.google.com/forms/d/e/1FAIpQLSeeI7A92xBvpAJ5D3ARi76rEeFPrEH-xOYga5eGXMQSTpZ8pA/viewform?usp=sf_link)
