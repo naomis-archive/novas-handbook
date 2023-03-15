@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/carrigan-community/handbook#readme",
   "dependencies": {
-    "docsify-cli": "4.4.3"
+    "docsify-cli": "4.4.4"
   }
 }
