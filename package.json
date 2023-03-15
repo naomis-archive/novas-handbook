@@ -6,8 +6,8 @@
     "develop": "docsify serve docs"
   },
   "engines": {
-    "node": "^16.9.1",
-    "npm": "^7.24.0"
+    "node": "18.15.0",
+    "npm": "9.5.0"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/carrigan-community/handbook#readme",
   "dependencies": {
-    "docsify-cli": "^4.4.3"
+    "docsify-cli": "4.4.3"
   }
 }
