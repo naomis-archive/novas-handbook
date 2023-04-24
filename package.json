@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A handbook for how we run our community",
   "scripts": {
+    "lint": "markdownlint ./docs/**/*.md",
     "develop": "docsify serve docs"
   },
   "engines": {
@@ -24,5 +25,9 @@
   "homepage": "https://github.com/carrigan-community/handbook#readme",
   "dependencies": {
     "docsify-cli": "4.4.4"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.28.1",
+    "markdownlint-cli": "^0.33.0"
   }
 }
