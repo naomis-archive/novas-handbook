@@ -15,6 +15,6 @@ Please be as thorough and detailed in your application as possible. Low-effort s
 
 ## Links
 
-- [Support Staff](https://airtable.com/shrllY4R2mVp6hjUU)
-- [Developer/Maintainer Team](https://airtable.com/shrYl1abYcFuPUV0E)
+- [Support Staff](https://airtable.com/shrPErFO1MV83qP36)
+- [Developer/Maintainer Team](https://airtable.com/shr2fJFJnlOMnE0JI)
 - [Moderator](https://airtable.com/shrNiJi8YtxkqS6in)
