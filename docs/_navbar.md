@@ -14,5 +14,5 @@
 ---
 
 - [Join Our Chat Server](http://chat.nhcarrigan.com)
-- [View Our Webpage](https://community.nhcarrigan.com)
-- [Visit Our GitHub Organisation](https://github.com/nhcommunity)
+- [View Our Webpage](https://naomis-novas.com)
+- [Visit Our GitHub Organisation](https://github.com/naomis-novas)

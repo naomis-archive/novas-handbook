@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carrigan-community/handbook.git"
+    "url": "git+https://github.com/naomis-novas/handbook.git"
   },
   "keywords": [
     "docsify"
   ],
-  "author": "Carrigan's Community",
+  "author": "Naomi Carrigan",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/carrigan-community/handbook/issues"
+    "url": "https://github.com/naomis-novas/handbook/issues"
   },
-  "homepage": "https://github.com/carrigan-community/handbook#readme",
+  "homepage": "https://github.com/naomis-novas/handbook#readme",
   "dependencies": {
     "docsify-cli": "4.4.4"
   },
