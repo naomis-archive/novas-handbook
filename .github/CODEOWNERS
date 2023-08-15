@@ -1,1 +1,12 @@
-* @nhcommunity/moderators
+# -------------------------------------------------
+# All files are owned by moderators
+# -------------------------------------------------
+
+* @naomis-novas/moderators
+
+# -------------------------------------------------
+# Negate rule above so renovate can automerge
+# -------------------------------------------------
+
+/package.json
+/pnpm-lock.yaml
